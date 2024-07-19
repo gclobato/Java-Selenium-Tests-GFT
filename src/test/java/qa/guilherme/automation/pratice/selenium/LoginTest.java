@@ -33,7 +33,7 @@ class LoginTest {
 		.click();
 		
 		driver.findElement(By.name("email"))
-		.sendKeys("roncarcla18@gmail.com");
+		.sendKeys("guilhermei348@gmail.com");
 		driver.findElement(By.name("password"))
 		.sendKeys("123456");
 		driver.findElement(By.xpath("//*[@id='form']/div/div/div[1]/div/form/button"))
@@ -41,7 +41,7 @@ class LoginTest {
 		
 		WebElement tagMyLogger = driver.findElement(By.tagName("b"));
 		String textTag = tagMyLogger.getText();
-		assertTrue(textTag.equals("Guilherme C Lobato Irene Ribeiro Franco"));
+		assertTrue(textTag.equals("Guilherme  Lobato"));
 	}
 
 }
