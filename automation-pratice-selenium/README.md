@@ -16,6 +16,12 @@
 
 <h2>Informações Gerais:</h2>
 
+No Terminal/Console:
+
+Faça um clone do projeto na sua máquina: git clone  testes_selenium_webdriver_java_curso.git
+Entre na pasta raiz do projeto
+Execute o comando: mvn test
+
 <h3>Testes Iniciais: Login e About</h3>
 <p>https://www.saucedemo.com/</p>
 <h3>1º Teste de Registro: </h3> <p>https://demo.automationtesting.in/Register.html</p>
