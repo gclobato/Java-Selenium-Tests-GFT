@@ -1,6 +1,3 @@
-
- 
-
 <h1> Java-Selenium-Tests-GFT</h1>
 
 <p> Projeto resultado do meu aprendizado no curso da Innovation One sobre Automação de Testes com Selenium WebDriver e Java. Nele, apliquei técnicas e práticas avançadas para automatizar testes em aplicações web, com o objetivo de aumentar a eficiência e a qualidade dos processos de teste. </p>
